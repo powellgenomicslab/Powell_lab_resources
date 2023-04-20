@@ -1,3 +1,7 @@
+# R cheatsheet / tricks
+
+## Data Frame manipulation
+
 ### MUCH faster rbind
 
 instead of doing:
