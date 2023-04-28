@@ -4,7 +4,7 @@ This is a public GitHub repo managed by members of the Powell Lab at the Garvan 
 
 The resources are organised as follows:
 
-* [Useful links](general_guidance)
+* [Useful info / resources](general_guidance)
 * [scRNA-seq processing pipeline](scrna_seq_processing)
 * [eQTL mapping strategies](eqtl_mapping)
 * [demultiplexing](demultiplex)
