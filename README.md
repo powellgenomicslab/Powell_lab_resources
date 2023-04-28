@@ -4,7 +4,7 @@ This is a public GitHub repo managed by members of the Powell Lab at the Garvan 
 
 The resources are organised as follows:
 
-* [R tricks and cheatseets](R_tricks.md) is a collection of useful tricks in the R language to either facilitate or speed up tasks
+* [Useful links](general_guidance)
 * [scRNA-seq processing pipeline](scrna_seq_processing)
 * [eQTL mapping strategies](eqtl_mapping)
 * [demultiplexing](demultiplex)
